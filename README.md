@@ -1,14 +1,3 @@
-## ⚠️ This project has moved over to [Beluga](https://github.com/binx/beluga) ⚠️
-
-Beluga has all of the same functionality as this project, plus these features:
-- Store backend UI to automate product creation and store theming
-- Collections to organize products
-- Paid shipping options
-- About page
-
-Check out [belugajs.com](https://belugajs.com/) for documentation, tutorials, and a gallery.
-
-
 ## React + Stripe Ecommerce Store Template
 
 Artisanal hand-rolled e-commerce site.
@@ -146,7 +135,3 @@ git pull
 yarn run build
 pm2 restart all
 ```
-
-### Conclusion
-
-Don't @ me :)
